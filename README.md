@@ -1,2 +1,2 @@
-# -flutter_translation_app
+# flutter_translation_app
 flutter_translation_app
